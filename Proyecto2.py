@@ -1,5 +1,6 @@
 #Rivera Paz Valeria
 #Ortiz Gonzalez David Enrique
+#Vasquez Hernandez Griselda
 import random
 
 class Cliente:
